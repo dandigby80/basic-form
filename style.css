@@ -43,13 +43,11 @@ a {
 }
 
 .form-wrap .form-group input {
+  -webkit-appearance: none;
   width: 100%;
   padding: 5px;
   border-radius: 5px;
   border: 1px #f4f4f4 solid;
-  -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
 }
 
 .form-wrap button {
